@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Candy72
-- 👀 I’m interested in entry level projects to get me started on my new career in IT 
-- 🌱 I’m currently completing a Bachelor of Applied Cloud Technology and a Mission Ready Salesforce Developer Accelerator Course
+- 👀 I’m interested in entry level projects and volunteer projects to get me started on my new career in IT 
+- 🌱 I’m currently completing a Bachelor of Applied Cloud Technology and severeral accelerator courses 
 - 📫 How to reach me mmcandy@pm.me
 
 <!---
